@@ -42,6 +42,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_emerald_hoe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-13 23:48:09 +0000"
@@ -60,9 +66,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-02-15 00:52:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2025-02-15 01:12:27 +0000"
     },
     "done": true
   },
@@ -105,6 +123,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-15 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -156,15 +180,33 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_diamond_battle_axe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_gold_bow_upper_section": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
     },
     "done": true
   },
+  "diamethysts:items/chain_link_maker": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_iron_bow": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
     },
     "done": true
   },
@@ -177,6 +219,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -228,15 +276,57 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-15 01:12:27 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_iron_plate": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 01:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-13 23:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_iron_shovel": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -283,10 +373,28 @@
     },
     "done": true
   },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2025-02-15 01:12:27 +0000"
+    },
+    "done": true
+  },
   "livingthings:recipes/cooked_ostrich": {
     "criteria": {
       "has_ostrich": "2025-02-13 23:03:14 +0000",
       "has_cooked_ostrich": "2025-02-13 23:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-15 01:13:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2025-02-15 01:12:27 +0000"
     },
     "done": true
   },
@@ -302,15 +410,45 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_iron_axe": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-02-15 00:48:17 +0000"
     },
     "done": true
   },
+  "diamethysts:items/diamethyst_iron_arrow": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_iron_battle_axe": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -326,6 +464,18 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-02-15 01:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_gold_bow": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
@@ -338,15 +488,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-15 00:51:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
     "criteria": {
       "has_log": "2025-02-13 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_lapis_arrow": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:05:06 +0000"
     },
     "done": true
   },
@@ -374,6 +542,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 01:05:55 +0000"
+    },
+    "done": true
+  },
   "livingthings:recipes/cooked_giraffe": {
     "criteria": {
       "has_giraffe": "2025-02-13 23:03:14 +0000",
@@ -381,11 +561,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_deep_crypt": "2025-02-15 01:08:25 +0000",
       "entered_ruined_building": "2025-02-15 00:23:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 01:05:55 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_emerald_battle_axe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:13:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2025-02-15 01:12:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
@@ -393,9 +598,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 01:05:55 +0000"
     },
     "done": true
   },
@@ -428,6 +645,18 @@
     "criteria": {
       "has_crab": "2025-02-13 23:03:14 +0000",
       "has_cooked_crab": "2025-02-13 23:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
     },
     "done": true
   },
@@ -467,6 +696,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-15 01:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-13 23:48:09 +0000"
@@ -485,9 +726,33 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_lapis_shovel": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:05:06 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_lapis_hoe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_gold_plate": {
     "criteria": {
       "has_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
     },
     "done": true
   },
@@ -503,9 +768,21 @@
     },
     "done": true
   },
+  "diamethysts:items/diamethyst_iron_hilt": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -569,6 +846,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-15 00:48:17 +0000"
@@ -585,6 +874,12 @@
   "gildedarmor:recipes/combat/gilded_netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_helmet": "2025-02-13 23:03:14 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_iron_hoe": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -624,6 +919,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-15 00:52:46 +0000",
@@ -632,6 +939,18 @@
       "minecraft:zombie": "2025-02-15 00:48:17 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
   },
   "livingthings:recipes/cooked_giraffe_from_smoking": {
     "criteria": {
@@ -662,6 +981,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-15 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_emerald_axe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:13:33 +0000"
     },
     "done": true
   },
@@ -702,6 +1027,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_arachnarch": "2025-02-15 01:11:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-02-13 23:39:40 +0000"
@@ -717,6 +1060,24 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-15 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_diamond_hilt": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-15 01:05:06 +0000"
     },
     "done": true
   },
@@ -744,6 +1105,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_diamond_hoe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-13 23:06:02 +0000"
@@ -753,6 +1120,12 @@
   "diamethysts:tools/diamethyst_gold_axe": {
     "criteria": {
       "has_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-15 01:05:55 +0000"
     },
     "done": true
   },
@@ -822,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-15 01:00:02 +0000"
@@ -864,9 +1243,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/aquite_block": {
+    "criteria": {
+      "has_item": "2025-02-15 01:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
     },
     "done": true
   },
@@ -876,9 +1273,21 @@
     },
     "done": true
   },
+  "diamethysts:items/diamethyst_diamond_arrow": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_emerald_bow": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_emerald_arrow": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:13:33 +0000"
     },
     "done": true
   },
@@ -900,6 +1309,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2025-02-13 23:48:47 +0000"
@@ -912,9 +1327,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-02-15 00:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -954,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-15 01:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-13 23:52:29 +0000"
@@ -969,6 +1402,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-15 01:04:46 +0000"
     },
     "done": true
   },
@@ -997,6 +1436,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_iron_pickaxe": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_minecraft/spruce": {
     "criteria": {
       "has_plank": "2025-02-15 00:52:28 +0000"
@@ -1006,6 +1451,24 @@
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-02-15 00:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 01:05:55 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_emerald_pickaxe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
     },
     "done": true
   },
@@ -1028,6 +1491,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-15 01:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:00:09 +0000"
@@ -1037,6 +1506,18 @@
   "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2025-02-13 23:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-15 01:05:57 +0000"
     },
     "done": true
   },
@@ -1058,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-15 00:53:16 +0000"
@@ -1067,6 +1554,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2025-02-15 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2025-02-15 01:12:27 +0000"
     },
     "done": true
   },
@@ -1124,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_bow_lower_section": {
     "criteria": {
       "has_item2": "2025-02-13 23:48:45 +0000"
@@ -1166,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-15 01:00:02 +0000"
@@ -1184,6 +1689,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_diamond_axe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
   "livingthings:recipes/cooked_elephant": {
     "criteria": {
       "has_elephant": "2025-02-13 23:03:14 +0000",
@@ -1191,9 +1702,21 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/kill_arachnarch": {
+    "criteria": {
+      "kill_arachnarch": "2025-02-15 01:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-02-15 00:48:17 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2025-02-15 01:05:57 +0000"
     },
     "done": true
   },
@@ -1209,9 +1732,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_lapis_hilt": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:05:06 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_iron_bow_lower_section": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-15 01:12:27 +0000"
     },
     "done": true
   },
@@ -1245,17 +1786,31 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2025-02-15 01:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-15 00:51:45 +0000",
       "minecraft:taiga": "2025-02-15 00:24:12 +0000",
+      "minecraft:dark_forest": "2025-02-15 01:07:38 +0000",
       "minecraft:river": "2025-02-15 00:48:41 +0000",
       "minecraft:dripstone_caves": "2025-02-15 00:56:28 +0000",
       "minecraft:forest": "2025-02-13 23:03:15 +0000",
       "minecraft:lush_caves": "2025-02-15 00:56:37 +0000",
+      "minecraft:ocean": "2025-02-15 01:08:07 +0000",
       "minecraft:plains": "2025-02-13 23:05:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
   },
   "livingthings:recipes/bone_meal": {
     "criteria": {
@@ -1278,6 +1833,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-02-15 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_battle_axe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:05:06 +0000"
     },
     "done": true
   },
@@ -1323,6 +1884,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/shield_strap": {
+    "criteria": {
+      "has_iron": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
@@ -1347,6 +1920,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_emerald_shovel": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-13 23:48:09 +0000"
@@ -1366,9 +1945,39 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2025-02-15 01:08:25 +0000"
+    },
+    "done": false
+  },
+  "diamethysts:tools/diamethyst_lapis_pickaxe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:05:06 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-02-15 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-15 01:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -1388,6 +1997,12 @@
   "diamethysts:tools/diamethyst_gold_hoe": {
     "criteria": {
       "has_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_lapis_axe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:05:06 +0000"
     },
     "done": true
   },
@@ -1415,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-15 01:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-02-15 01:00:02 +0000"
@@ -1433,9 +2054,21 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_diamond_pickaxe": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -1445,9 +2078,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/bar_panel": {
+    "criteria": {
+      "has_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-15 00:52:28 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_emerald_hilt": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:13:33 +0000"
     },
     "done": true
   },
@@ -1469,6 +2114,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-15 01:05:57 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_bow": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
@@ -1478,6 +2135,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -1496,6 +2159,18 @@
   "chococraft:recipes/chococraft/choco_disguise_boots": {
     "criteria": {
       "has_chocobo_feather": "2025-02-15 00:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 01:05:55 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_diamond_shovel": {
+    "criteria": {
+      "has_gem": "2025-02-15 01:09:35 +0000"
     },
     "done": true
   },
