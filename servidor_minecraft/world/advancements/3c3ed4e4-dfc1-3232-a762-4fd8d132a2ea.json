@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
   "livingthings:recipes/cooked_crab": {
     "criteria": {
       "has_crab": "2025-02-14 00:04:56 +0000",
@@ -66,6 +72,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_gold_pickaxe": {
+    "criteria": {
+      "has_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/chocobo_saddle_alt": {
     "criteria": {
       "has_chocobo_feather": "2025-02-15 00:19:25 +0000"
@@ -75,6 +87,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-02-14 00:13:30 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_hilt": {
+    "criteria": {
+      "has_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -90,9 +108,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_wood": "2025-02-14 00:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -105,6 +135,12 @@
   "diamethysts:items/chain_link_maker": {
     "criteria": {
       "has_ingot": "2025-02-14 00:13:30 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_iron_bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
     },
     "done": true
   },
@@ -129,6 +165,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-14 00:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -210,9 +252,21 @@
     },
     "done": true
   },
+  "diamethysts:items/strung_diamond": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-02-14 00:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-15 00:37:24 +0000"
     },
     "done": true
   },
@@ -257,6 +311,12 @@
   "diamethysts:items/diamethyst_arrow": {
     "criteria": {
       "has_stick": "2025-02-14 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -323,6 +383,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-14 00:13:30 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_gold_bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
     },
     "done": true
   },
@@ -411,9 +477,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-02-14 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_copper_bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
     },
     "done": true
   },
@@ -467,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "gildedarmor:recipes/combat/gilded_netherite_boots_smithing": {
     "criteria": {
       "has_netherite_boots": "2025-02-14 00:04:56 +0000"
@@ -500,6 +590,18 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-02-14 00:13:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-02-15 00:34:31 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_plate": {
+    "criteria": {
+      "has_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -563,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-14 00:13:36 +0000"
@@ -578,6 +686,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_bookshelf": {
     "criteria": {
       "has_item": "2025-02-14 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-15 00:37:24 +0000"
     },
     "done": true
   },
@@ -648,8 +762,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-02-15 00:40:13 +0000",
       "minecraft:zombie": "2025-02-14 00:13:12 +0000"
     },
     "done": false
@@ -765,6 +886,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_gold_axe": {
+    "criteria": {
+      "has_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-14 00:13:36 +0000"
@@ -792,6 +919,18 @@
   "blue_skies:recipes/blue_skies_blocks/moonstone_from_shard": {
     "criteria": {
       "has_item": "2025-02-14 00:26:15 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_arrow": {
+    "criteria": {
+      "has_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -825,9 +964,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_ruined_building": "2025-02-15 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
     },
     "done": true
   },
@@ -846,6 +997,12 @@
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-02-14 00:13:36 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_emerald_bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
     },
     "done": true
   },
@@ -909,6 +1066,18 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_prismarine_bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-14 00:07:25 +0000"
@@ -924,6 +1093,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-14 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -983,9 +1158,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-14 00:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
     },
     "done": true
   },
@@ -1115,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-15 00:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-02-15 00:25:09 +0000"
@@ -1146,6 +1345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_iron_bow_lower_section": {
     "criteria": {
       "has_stick": "2025-02-14 00:09:01 +0000"
@@ -1161,6 +1366,12 @@
   "diamethysts:items/diamethyst_gold_bow_lower_section": {
     "criteria": {
       "has_stick": "2025-02-14 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_gold_shovel": {
+    "criteria": {
+      "has_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -1203,6 +1414,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_gold_battle_axe": {
+    "criteria": {
+      "has_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-14 00:11:16 +0000"
@@ -1230,6 +1447,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-14 00:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-15 00:40:15 +0000"
     },
     "done": true
   },
@@ -1319,6 +1542,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_gold_hoe": {
+    "criteria": {
+      "has_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_diamond_bow_lower_section": {
     "criteria": {
       "has_stick": "2025-02-14 00:09:01 +0000"
@@ -1331,6 +1560,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_diamond_bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_prismarine_bow_lower_section": {
     "criteria": {
       "has_stick": "2025-02-14 00:09:01 +0000"
@@ -1340,6 +1575,12 @@
   "blue_skies:recipes/blue_skies_blocks/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-14 00:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 00:35:17 +0000"
     },
     "done": true
   },
@@ -1379,6 +1620,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_bow": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-02-14 00:09:01 +0000"
@@ -1412,6 +1659,12 @@
   "chococraft:recipes/chococraft/chocobo_saddle": {
     "criteria": {
       "has_chocobo_feather": "2025-02-15 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/strung_lapis": {
+    "criteria": {
+      "has_string": "2025-02-15 00:40:16 +0000"
     },
     "done": true
   },

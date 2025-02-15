@@ -946,3 +946,29 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [15Feb2025 00:30:58.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fee (vehicle of kim) moved wrongly! 0.5645943232661921
 [15Feb2025 00:34:31.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim has made the advancement [Pic-A-Nic Basket?]
 [15Feb2025 00:37:24.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim has made the advancement [Ice Bucket Challenge]
+[15Feb2025 00:45:10.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kim> weather clear
+[15Feb2025 00:45:45.444] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18ef549b
+[15Feb2025 00:45:45.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OnTap[/127.38.238.155:44041] logged in with entity id 8531 at (-494.12986227696274, 108.0, -286.30000001192093)
+[15Feb2025 00:45:45.455] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OnTap
+[15Feb2025 00:45:45.455] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OnTap
+[15Feb2025 00:45:45.456] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OnTap
+[15Feb2025 00:45:45.456] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OnTap
+[15Feb2025 00:45:45.457] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OnTap
+[15Feb2025 00:45:45.459] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OnTap
+[15Feb2025 00:45:45.459] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
+[15Feb2025 00:45:45.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
+[15Feb2025 00:45:45.515] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
+[15Feb2025 00:46:06.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> jeje
+[15Feb2025 00:46:16.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kim> bro bro
+[15Feb2025 00:46:23.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> q lo q
+[15Feb2025 00:46:26.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kim> vi algo en mi exploracion
+[15Feb2025 00:46:30.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> aver
+[15Feb2025 00:46:36.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kim> sigueme
+[15Feb2025 00:47:32.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> xdd
+[15Feb2025 00:47:54.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> si soporta
+[15Feb2025 00:47:56.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> tirate
+[15Feb2025 00:47:57.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kim> alla
+[15Feb2025 00:48:07.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> q cosa
+[15Feb2025 00:48:17.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Monster Hunter]
+[15Feb2025 00:48:35.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kim> eso
+[15Feb2025 00:48:40.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> q es
