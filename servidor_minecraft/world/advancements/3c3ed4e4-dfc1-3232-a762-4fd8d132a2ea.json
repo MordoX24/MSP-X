@@ -1383,7 +1383,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-15 00:50:45 +0000",
       "minecraft:taiga": "2025-02-15 00:24:09 +0000",
+      "minecraft:river": "2025-02-15 00:49:23 +0000",
       "minecraft:forest": "2025-02-14 00:04:56 +0000",
       "minecraft:meadow": "2025-02-14 00:20:50 +0000",
       "minecraft:plains": "2025-02-14 00:06:28 +0000"
