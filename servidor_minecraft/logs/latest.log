@@ -1008,3 +1008,25 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [15Feb2025 00:57:35.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> wasa
 [15Feb2025 00:58:23.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Cover Me with Diamonds]
 [15Feb2025 00:58:26.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> ,muejej
+[15Feb2025 00:59:03.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> toma
+[15Feb2025 00:59:19.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim has made the advancement [Cover Me with Diamonds]
+[15Feb2025 01:02:17.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap was kicked for floating too long!
+[15Feb2025 01:02:17.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap lost connection: Flying is not enabled on this server
+[15Feb2025 01:02:17.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap left the game
+[15Feb2025 01:02:17.647] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 01:02:34.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kim lost connection: Disconnected
+[15Feb2025 01:02:34.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim left the game
+[15Feb2025 01:02:43.440] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79179b38
+[15Feb2025 01:02:43.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OnTap[/127.38.238.155:41647] logged in with entity id 12911 at (-828.4024165154851, 10.393779602861173, -273.49623790058183)
+[15Feb2025 01:02:43.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OnTap
+[15Feb2025 01:02:43.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OnTap
+[15Feb2025 01:02:43.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OnTap
+[15Feb2025 01:02:43.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OnTap
+[15Feb2025 01:02:43.450] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OnTap
+[15Feb2025 01:02:43.452] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OnTap
+[15Feb2025 01:02:43.453] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
+[15Feb2025 01:02:43.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
+[15Feb2025 01:02:43.475] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
+[15Feb2025 01:03:57.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> a
+[15Feb2025 01:04:46.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Not Today, Thank You]
+[15Feb2025 01:07:58.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
