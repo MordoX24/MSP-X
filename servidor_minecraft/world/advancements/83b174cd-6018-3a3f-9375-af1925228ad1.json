@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-02-15 00:23:04 +0000"
@@ -373,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-18 03:04:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-15 01:05:55 +0000"
@@ -621,6 +633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/starlit_spear": {
     "criteria": {
       "has_item": "2025-02-18 02:07:15 +0000"
@@ -683,6 +701,12 @@
       "minecraft:zombie": "2025-02-15 00:48:17 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2025-02-18 03:04:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
@@ -950,6 +974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_copper_bow_lower_section": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
@@ -1072,6 +1102,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-15 00:53:16 +0000"
@@ -1111,6 +1147,12 @@
   "blue_skies:recipes/blue_skies_dungeon/blinding_slab_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-02-15 01:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
     },
     "done": true
   },
@@ -1183,6 +1225,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-15 01:05:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_minecraft/birch": {
+    "criteria": {
+      "has_plank": "2025-02-18 03:05:12 +0000"
     },
     "done": true
   },
@@ -1578,6 +1632,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2025-02-18 03:04:43 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/chocobo_saddle_alt": {
     "criteria": {
       "has_chocobo_feather": "2025-02-15 00:46:44 +0000"
@@ -1605,6 +1665,12 @@
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-02-15 00:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
     },
     "done": true
   },
@@ -1816,6 +1882,12 @@
   "diamethysts:items/diamethyst_lapis_arrow": {
     "criteria": {
       "has_gem": "2025-02-15 01:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
     },
     "done": true
   },
@@ -2178,6 +2250,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_minecraft/birch": {
+    "criteria": {
+      "has_plank": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-02-18 02:31:25 +0000"
@@ -2241,6 +2325,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-18 02:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
     },
     "done": true
   },
@@ -2325,6 +2415,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
     },
     "done": true
   },
@@ -2580,6 +2676,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-02-15 01:00:13 +0000"
@@ -2676,6 +2778,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-02-18 02:07:15 +0000"
@@ -2754,6 +2862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-02-15 00:51:22 +0000"
@@ -2823,6 +2937,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-18 03:05:12 +0000"
     },
     "done": true
   },
