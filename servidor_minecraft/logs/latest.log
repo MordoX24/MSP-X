@@ -954,3 +954,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [18Feb2025 02:22:22.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
 [18Feb2025 02:22:22.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
 [18Feb2025 02:22:22.399] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
+[18Feb2025 02:31:32.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has reached the goal [Hired Help]
+[18Feb2025 02:37:08.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap lost connection: Timed out
+[18Feb2025 02:37:08.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap left the game
+[18Feb2025 02:37:44.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@176194f8
+[18Feb2025 02:37:44.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OnTap[/127.179.12.228:50315] logged in with entity id 8043 at (-289.69894049179925, 88.0, 151.45607431398867)
+[18Feb2025 02:37:44.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OnTap
+[18Feb2025 02:37:44.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OnTap
+[18Feb2025 02:37:44.562] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OnTap
+[18Feb2025 02:37:44.562] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OnTap
+[18Feb2025 02:37:44.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OnTap
+[18Feb2025 02:37:44.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OnTap
+[18Feb2025 02:37:44.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
+[18Feb2025 02:37:44.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
+[18Feb2025 02:37:44.602] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
