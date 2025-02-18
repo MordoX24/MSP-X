@@ -337,6 +337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2025-02-18 03:02:58 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_gold_bow": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
@@ -528,6 +534,12 @@
   "diamethysts:tools/diamethyst_lapis_hoe": {
     "criteria": {
       "has_gem": "2025-02-15 01:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-18 03:02:19 +0000"
     },
     "done": true
   },
@@ -794,6 +806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-18 02:55:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
@@ -827,6 +845,12 @@
   "diamethysts:armor/diamethyst_gold_shield": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-18 02:55:08 +0000"
     },
     "done": true
   },
@@ -1135,6 +1159,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2025-02-18 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-18 02:55:08 +0000"
     },
     "done": true
   },
@@ -2367,6 +2397,12 @@
   "diamethysts:weapons/diamethyst_lapis_bow": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2025-02-18 03:02:58 +0000"
     },
     "done": true
   },
