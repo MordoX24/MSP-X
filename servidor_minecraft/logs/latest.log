@@ -933,3 +933,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [18Feb2025 02:10:11.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Chest Slayer]
 [18Feb2025 02:12:07.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [A Cut Above!]
 [18Feb2025 02:14:09.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Dragonslayer]
+[18Feb2025 02:19:18.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Straddle My Ol' Saddle]
+[18Feb2025 02:21:40.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has completed the challenge [The Bigger They Are...]
+[18Feb2025 02:21:54.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap was kicked for floating too long!
+[18Feb2025 02:21:54.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap lost connection: Flying is not enabled on this server
+[18Feb2025 02:21:54.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap left the game
+[18Feb2025 02:21:54.362] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Feb2025 02:22:03.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[18Feb2025 02:22:03.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /flying enable<--[HERE]
+[18Feb2025 02:22:07.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[18Feb2025 02:22:07.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fly enable<--[HERE]
+[18Feb2025 02:22:22.355] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7cdb791a
+[18Feb2025 02:22:22.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OnTap[/127.179.12.228:50343] logged in with entity id 5192 at (-293.9447675673632, 108.0780349443871, 153.0928432862806)
+[18Feb2025 02:22:22.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OnTap
+[18Feb2025 02:22:22.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OnTap
+[18Feb2025 02:22:22.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OnTap
+[18Feb2025 02:22:22.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OnTap
+[18Feb2025 02:22:22.370] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OnTap
+[18Feb2025 02:22:22.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OnTap
+[18Feb2025 02:22:22.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
+[18Feb2025 02:22:22.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
+[18Feb2025 02:22:22.399] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)

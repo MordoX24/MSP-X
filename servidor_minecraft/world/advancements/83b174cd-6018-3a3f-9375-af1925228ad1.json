@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/get_wood": {
     "criteria": {
       "has_starlit_log": "2025-02-15 01:15:19 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-15 00:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
     },
     "done": true
   },
@@ -356,6 +368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/blinding_stairs": {
     "criteria": {
       "has_item": "2025-02-15 01:15:53 +0000"
@@ -387,9 +405,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_copper_bow_upper_section": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-18 02:19:21 +0000"
     },
     "done": true
   },
@@ -483,6 +513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-13 23:48:09 +0000"
@@ -531,9 +567,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-18 02:19:21 +0000"
+    },
+    "done": true
+  },
   "gildedarmor:recipes/combat/gilded_netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_helmet": "2025-02-13 23:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
     },
     "done": true
   },
@@ -664,6 +712,12 @@
   "diamethysts:tools/diamethyst_gold_axe": {
     "criteria": {
       "has_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
     },
     "done": true
   },
@@ -854,6 +908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "livingthings:recipes/cooked_crab_from_smoking": {
     "criteria": {
       "has_crab": "2025-02-13 23:03:14 +0000",
@@ -903,9 +963,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-15 00:25:28 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-18 02:21:40 +0000"
     },
     "done": true
   },
@@ -978,6 +1050,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-15 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
     },
     "done": true
   },
@@ -1325,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/chocobo_saddle_alt": {
     "criteria": {
       "has_chocobo_feather": "2025-02-15 00:46:44 +0000"
@@ -1400,6 +1484,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-02-15 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
     },
     "done": true
   },
@@ -1500,6 +1590,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-18 02:14:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-13 23:48:09 +0000"
@@ -1554,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-02-18 02:07:15 +0000"
@@ -1563,6 +1665,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-15 01:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
     },
     "done": true
   },
@@ -1599,6 +1707,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
     },
     "done": true
   },
@@ -1715,6 +1829,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
     },
     "done": true
   },
@@ -1865,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-02-15 00:51:22 +0000"
@@ -1898,6 +2024,12 @@
   "blue_skies:recipes/decorations/anvil_compat": {
     "criteria": {
       "has_item": "2025-02-18 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-18 02:19:18 +0000"
     },
     "done": true
   },
@@ -2039,6 +2171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-18 02:13:49 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-02-15 00:52:16 +0000"
@@ -2144,6 +2282,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-15 00:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-18 02:19:21 +0000"
     },
     "done": true
   },
