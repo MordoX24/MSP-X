@@ -585,6 +585,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/seeker_bow": {
+    "criteria": {
+      "has_item": "2025-02-18 02:53:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-02-13 23:38:10 +0000"
@@ -726,6 +732,13 @@
       "has_item": "2025-02-15 01:15:53 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "trophy": "2025-02-18 02:53:37 +0000",
+      "was_in_fight": "2025-02-18 02:53:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
@@ -2091,6 +2104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-02-18 02:53:36 +0000"
+    },
+    "done": true
+  },
   "livingthings:recipes/cooked_giraffe_from_smoking": {
     "criteria": {
       "has_giraffe": "2025-02-13 23:03:14 +0000",
@@ -2168,6 +2187,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-18 02:53:47 +0000"
     },
     "done": true
   },
@@ -2639,6 +2664,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-18 02:53:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-18 02:53:37 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/shield_strap": {
     "criteria": {
       "has_iron": "2025-02-15 01:10:18 +0000"
@@ -2690,6 +2727,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/bows": {
+    "criteria": {
+      "has_seeker": "2025-02-18 02:53:35 +0000"
     },
     "done": true
   },
