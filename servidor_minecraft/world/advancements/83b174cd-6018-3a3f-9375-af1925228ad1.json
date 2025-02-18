@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-18 02:38:55 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_iron_shovel": {
     "criteria": {
       "has_ingot": "2025-02-15 01:10:18 +0000"
@@ -543,6 +549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-18 02:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-13 23:48:09 +0000"
@@ -576,6 +588,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-02-13 23:38:10 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-02-18 02:38:55 +0000"
     },
     "done": true
   },
@@ -829,6 +847,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-18 02:38:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/aquite_block": {
     "criteria": {
       "has_item": "2025-02-15 01:12:27 +0000"
@@ -910,6 +934,12 @@
   "blue_skies:recipes/blue_skies_tools/ventium_bucket": {
     "criteria": {
       "has_item": "2025-02-18 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-18 02:38:55 +0000"
     },
     "done": true
   },
@@ -1625,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-18 02:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-13 23:38:10 +0000"
@@ -2059,6 +2095,12 @@
     "criteria": {
       "has_giraffe": "2025-02-13 23:03:14 +0000",
       "has_cooked_giraffe": "2025-02-13 23:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-18 02:43:41 +0000"
     },
     "done": true
   },
@@ -2781,6 +2823,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-18 02:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-18 02:38:05 +0000"
     },
     "done": true
   },
