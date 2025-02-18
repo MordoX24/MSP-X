@@ -969,3 +969,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [18Feb2025 02:37:44.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
 [18Feb2025 02:37:44.602] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
 [18Feb2025 02:43:41.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [What a Deal!]
+[18Feb2025 03:22:53.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is BRONZE. The position is BlockPos{x=-324, y=89, z=232}
+[18Feb2025 03:22:53.602] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is BRONZE. The position is BlockPos{x=-324, y=89, z=232}
+[18Feb2025 03:22:59.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has reached the goal [Blades Of Glory!]
+[18Feb2025 03:26:32.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Ice Bucket Challenge]
+[18Feb2025 03:27:12.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [We Need to Go Deeper]
+[18Feb2025 03:27:12.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind

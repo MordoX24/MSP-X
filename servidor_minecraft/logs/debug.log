@@ -5163,3 +5163,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [18Feb2025 03:08:47.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Feb2025 03:13:47.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Feb2025 03:13:47.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 03:18:47.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 03:18:47.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 03:22:53.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is BRONZE. The position is BlockPos{x=-324, y=89, z=232}
+[18Feb2025 03:22:53.602] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is BRONZE. The position is BlockPos{x=-324, y=89, z=232}
+[18Feb2025 03:22:59.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has reached the goal [Blades Of Glory!]
+[18Feb2025 03:23:47.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 03:23:47.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 03:26:32.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Ice Bucket Challenge]
+[18Feb2025 03:27:12.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [We Need to Go Deeper]
+[18Feb2025 03:27:12.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Feb2025 03:27:12.745] [Worker-Main-47/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:soul_sand_valley at [-26,15]
+[18Feb2025 03:27:18.330] [Worker-Main-47/DEBUG] [mixin/]: Mixing ModifyPiglinBruteAi from bygonenether.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinBruteAi
+[18Feb2025 03:27:21.756] [Worker-Main-61/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:warped_forest at [12,16]

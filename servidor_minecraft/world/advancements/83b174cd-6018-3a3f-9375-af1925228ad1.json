@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/triple_bow": {
+    "criteria": {
+      "has_item": "2025-02-18 03:22:17 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_deep_crypt": "2025-02-15 01:08:25 +0000",
@@ -1846,6 +1852,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:story/diamethyst_netherite_sword": {
+    "criteria": {
+      "diamethyst_netherite_sword": "2025-02-18 03:22:59 +0000"
     },
     "done": true
   },
