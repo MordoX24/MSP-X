@@ -1,190 +1,197 @@
-[18Feb2025 01:57:36.113] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[18Feb2025 01:57:36.117] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
-[18Feb2025 01:57:36.514] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP-X/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[18Feb2025 01:57:36.917] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-X/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[18Feb2025 01:57:36.918] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-X/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18Feb2025 01:57:36.920] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-X/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18Feb2025 01:57:36.922] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-X/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18Feb2025 01:57:37.074] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[18Feb2025 01:57:39.566] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Feb2025 01:57:39.675] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18Feb2025 01:57:39.750] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 28 options available, 0 override(s) found
-[18Feb2025 01:57:39.873] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Feb2025 01:57:40.179] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: find block call
-[18Feb2025 01:57:41.962] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: find block call
-[18Feb2025 01:57:48.465] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[18Feb2025 01:57:48.492] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[18Feb2025 01:57:48.530] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[18Feb2025 01:57:48.668] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[18Feb2025 01:57:48.742] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for horseexpert:main
-[18Feb2025 01:57:48.766] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
-[18Feb2025 01:57:48.926] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[18Feb2025 01:57:49.001] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[18Feb2025 01:57:49.002] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[18Feb2025 01:57:49.002] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[18Feb2025 01:57:49.002] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[18Feb2025 01:57:49.002] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[18Feb2025 01:57:49.002] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[18Feb2025 01:57:49.406] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for leavesbegone:main
-[18Feb2025 01:57:49.410] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[18Feb2025 01:57:49.414] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[18Feb2025 01:57:50.074] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[18Feb2025 01:57:50.145] [modloading-worker-0/INFO] [Living Things/]: Loaded ForgeRegistrationFactory for service Factory
-[18Feb2025 01:57:50.209] [modloading-worker-0/INFO] [Living Things/]: Loaded ForgePlatformHelper for service IPlatformHelper
-[18Feb2025 01:57:50.376] [modloading-worker-0/INFO] [Living Things/]: Config 'livingthings.json' was successfully loaded.
-[18Feb2025 01:57:50.393] [modloading-worker-0/INFO] [Living Things/]: Config 'penguin.json' was successfully loaded.
-[18Feb2025 01:57:50.395] [modloading-worker-0/INFO] [Living Things/]: Config 'elephant.json' was successfully loaded.
-[18Feb2025 01:57:50.408] [modloading-worker-0/INFO] [Living Things/]: Config 'giraffe.json' was successfully loaded.
-[18Feb2025 01:57:50.410] [modloading-worker-0/INFO] [Living Things/]: Config 'lion.json' was successfully loaded.
-[18Feb2025 01:57:50.412] [modloading-worker-0/INFO] [Living Things/]: Config 'shark.json' was successfully loaded.
-[18Feb2025 01:57:50.415] [modloading-worker-0/INFO] [Living Things/]: Config 'ostrich.json' was successfully loaded.
-[18Feb2025 01:57:50.418] [modloading-worker-0/INFO] [Living Things/]: Config 'flamingo.json' was successfully loaded.
-[18Feb2025 01:57:50.421] [modloading-worker-0/INFO] [Living Things/]: Config 'crab.json' was successfully loaded.
-[18Feb2025 01:57:50.423] [modloading-worker-0/INFO] [Living Things/]: Config 'mantaray.json' was successfully loaded.
-[18Feb2025 01:57:50.428] [modloading-worker-0/INFO] [Living Things/]: Config 'raccoon.json' was successfully loaded.
-[18Feb2025 01:57:50.430] [modloading-worker-0/INFO] [Living Things/]: Config 'owl.json' was successfully loaded.
-[18Feb2025 01:57:50.433] [modloading-worker-0/INFO] [Living Things/]: Config 'ancient_blaze.json' was successfully loaded.
-[18Feb2025 01:57:50.438] [modloading-worker-0/INFO] [Living Things/]: Config 'koala.json' was successfully loaded.
-[18Feb2025 01:57:50.443] [modloading-worker-0/INFO] [Living Things/]: Config 'snail.json' was successfully loaded.
-[18Feb2025 01:57:50.448] [modloading-worker-0/INFO] [Living Things/]: Config 'monkey.json' was successfully loaded.
-[18Feb2025 01:57:50.454] [modloading-worker-0/INFO] [Living Things/]: Config 'nether_knight.json' was successfully loaded.
-[18Feb2025 01:57:50.458] [modloading-worker-0/INFO] [Living Things/]: Config 'shroomie.json' was successfully loaded.
-[18Feb2025 01:57:50.462] [modloading-worker-0/INFO] [Living Things/]: Config 'seahorse.json' was successfully loaded.
-[18Feb2025 01:57:50.465] [modloading-worker-0/INFO] [Living Things/]: Config 'baby_ender_dragon.json' was successfully loaded.
-[18Feb2025 01:57:50.470] [modloading-worker-0/INFO] [Living Things/]: Config 'peacock.json' was successfully loaded.
-[18Feb2025 01:57:51.289] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[18Feb2025 01:57:51.312] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[18Feb2025 01:57:51.329] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[18Feb2025 01:57:51.473] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod tconstruct.
-[18Feb2025 01:57:51.481] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
-[18Feb2025 01:57:51.481] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
-[18Feb2025 01:57:51.482] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Curios.
-[18Feb2025 01:57:57.085] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[18Feb2025 01:57:58.725] [main/INFO] [Living Things/]: Registering SpawnPlacements
-[18Feb2025 01:57:59.112] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `piglin_brute_specific_sensor`, expected `bygonenether`. This could be a intended override, but in most cases indicates a broken mod.
-[18Feb2025 01:57:59.736] [main/INFO] [com.barion.dungeons_enhanced.DungeonsEnhanced/]: Dungeons Enhanced structures loaded
-[18Feb2025 01:57:59.923] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[18Feb2025 01:57:59.925] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[18Feb2025 01:57:59.982] [main/INFO] [Living Things/]: Registering MobAttributes
-[18Feb2025 01:58:00.014] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
-[18Feb2025 01:58:00.014] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
-[18Feb2025 01:58:00.016] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
-[18Feb2025 01:58:00.016] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
-[18Feb2025 01:58:00.017] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
-[18Feb2025 01:58:00.017] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
-[18Feb2025 01:58:00.059] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[18Feb2025 01:58:00.062] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[18Feb2025 01:58:00.074] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[18Feb2025 01:58:00.243] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:biome_dictionary
-[18Feb2025 01:58:00.277] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:loot_table_alias
-[18Feb2025 01:58:00.291] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:data_handler_type
-[18Feb2025 01:58:00.304] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:dynamic_spawner
-[18Feb2025 01:58:00.320] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
-[18Feb2025 01:58:00.474] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:dense_forest to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.475] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:firefly_forest to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.475] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:enchanted_forest to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.476] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:dark_forest_center to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.476] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:stream to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.476] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:spooky_forest to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.477] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:mushroom_forest to [structure_gel:dry, structure_gel:snowy, structure_gel:mushroom]
-[18Feb2025 01:58:00.477] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:snowy_forest to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.477] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:dense_mushroom_forest to [structure_gel:dry, structure_gel:snowy, structure_gel:mushroom]
-[18Feb2025 01:58:00.477] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:forest to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.478] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:clearing to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.478] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:glacier to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.478] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:lake to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.479] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:thornlands to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.479] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:dark_forest to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.480] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:oak_savannah to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.480] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered terrablender:deferred_placeholder to [structure_gel:neutral_temp, structure_gel:dry]
-[18Feb2025 01:58:00.482] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:highlands to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.482] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:swamp to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.482] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:fire_swamp to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.483] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:final_plateau to [structure_gel:dry, structure_gel:snowy]
-[18Feb2025 01:58:00.815] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[18Feb2025 01:58:00.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[18Feb2025 01:58:01.018] [modloading-worker-0/INFO] [diamethysts/]: Diamethysts common setup
-[18Feb2025 01:58:01.166] [main/INFO] [journeymap/]: Initializing Packet Registries
-[18Feb2025 01:58:01.222] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[18Feb2025 01:58:01.403] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 97 ms
-[18Feb2025 01:58:01.406] [main/INFO] [Living Things/]: Added Nether Knight to Fortress Spawns
-[18Feb2025 01:58:01.478] [modloading-worker-0/INFO] [diamethysts/]: Diamethysts server setup
-[18Feb2025 01:58:01.543] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[18Feb2025 01:58:01.560] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[18Feb2025 01:58:01.567] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.12 Target: null
-[18Feb2025 01:58:01.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[18Feb2025 01:58:01.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 3.0.1 Target: null
-[18Feb2025 01:58:01.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[18Feb2025 01:58:02.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[18Feb2025 01:58:02.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [horseexpert] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/horseexpert.json
-[18Feb2025 01:58:02.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [horseexpert] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[18Feb2025 01:58:02.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gildedarmor] Starting version check at https://raw.githubusercontent.com/MaroonShaded/GildedArmor/master/update.json
-[18Feb2025 01:58:02.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gildedarmor] Found status: BETA Current: 1.3.1 Target: null
-[18Feb2025 01:58:02.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[18Feb2025 01:58:02.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
-[18Feb2025 01:58:02.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.18.2
-[18Feb2025 01:58:02.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 13.3.56 Target: 13.3.56
-[18Feb2025 01:58:02.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[18Feb2025 01:58:02.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: OUTDATED Current: 1.1.0 Target: 1.1.1
-[18Feb2025 01:58:02.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Feb2025 01:58:02.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[18Feb2025 01:58:02.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leavesbegone] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/leavesbegone.json
-[18Feb2025 01:58:03.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leavesbegone] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[18Feb2025 01:58:03.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.18/update.json
-[18Feb2025 01:58:03.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: AHEAD Current: 1.18.2-1.1.0 Target: null
-[18Feb2025 01:58:03.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[18Feb2025 01:58:03.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: OUTDATED Current: 4.1.1423 Target: 4.1.1494
-[18Feb2025 01:58:03.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
-[18Feb2025 01:58:03.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: OUTDATED Current: 1.0.3 Target: 1.0.5
-[18Feb2025 01:58:03.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[18Feb2025 01:58:03.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: OUTDATED Current: 2.1.0 Target: 3.0.0
-[18Feb2025 01:58:03.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.18.2
-[18Feb2025 01:58:03.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 10.0.12 Target: 10.0.17
-[18Feb2025 01:58:03.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diamethysts] Starting version check at https://raw.githubusercontent.com/mc-goodch/files/master/diamethysts-updater.json
-[18Feb2025 01:58:03.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diamethysts] Found status: OUTDATED Current: 1.7.2-1.18.2 Target: 1.8.1-1.18.2
-[18Feb2025 01:58:03.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[18Feb2025 01:58:03.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 3.5.8 Target: 3.5.10
-[18Feb2025 01:58:09.081] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Feb2025 01:58:13.505] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSP-X/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2391!/assets/.mcassetsroot' uses unexpected schema
-[18Feb2025 01:58:13.505] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSP-X/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2391!/data/.mcassetsroot' uses unexpected schema
-[18Feb2025 01:58:13.786] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 136 ms
-[18Feb2025 01:58:16.825] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
-[18Feb2025 01:58:16.827] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
-[18Feb2025 01:58:16.828] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
-[18Feb2025 01:58:16.829] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
-[18Feb2025 01:58:16.830] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
-[18Feb2025 01:58:16.831] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
-[18Feb2025 01:58:16.832] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
-[18Feb2025 01:58:16.836] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
-[18Feb2025 01:58:16.836] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
-[18Feb2025 01:58:18.750] [main/INFO] [Living Things/]: Command '/livingthings' registered
-[18Feb2025 01:58:18.862] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18Feb2025 01:58:18.863] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18Feb2025 01:58:18.867] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18Feb2025 01:58:18.868] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18Feb2025 01:58:18.869] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18Feb2025 01:58:20.392] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.1-1.18.2.jar)
-[18Feb2025 01:58:20.399] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.1-1.18.2.jar), 
+[19Feb2025 01:23:00.603] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[19Feb2025 01:23:00.607] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[19Feb2025 01:23:01.010] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP-X/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[19Feb2025 01:23:01.416] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-X/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[19Feb2025 01:23:01.418] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-X/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[19Feb2025 01:23:01.419] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-X/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[19Feb2025 01:23:01.420] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-X/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[19Feb2025 01:23:01.563] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[19Feb2025 01:23:03.974] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Feb2025 01:23:04.094] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19Feb2025 01:23:04.195] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 28 options available, 0 override(s) found
+[19Feb2025 01:23:04.278] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Feb2025 01:23:04.679] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: find block call
+[19Feb2025 01:23:06.548] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: find block call
+[19Feb2025 01:23:13.497] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[19Feb2025 01:23:13.537] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[19Feb2025 01:23:13.543] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[19Feb2025 01:23:13.776] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[19Feb2025 01:23:13.954] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for horseexpert:main
+[19Feb2025 01:23:14.033] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
+[19Feb2025 01:23:14.401] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[19Feb2025 01:23:14.614] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[19Feb2025 01:23:14.615] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[19Feb2025 01:23:14.615] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[19Feb2025 01:23:14.616] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[19Feb2025 01:23:14.616] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[19Feb2025 01:23:14.616] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[19Feb2025 01:23:14.949] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[19Feb2025 01:23:14.950] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[19Feb2025 01:23:14.992] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for leavesbegone:main
+[19Feb2025 01:23:15.035] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[19Feb2025 01:23:15.544] [modloading-worker-0/INFO] [Living Things/]: Loaded ForgeRegistrationFactory for service Factory
+[19Feb2025 01:23:15.588] [modloading-worker-0/INFO] [Living Things/]: Loaded ForgePlatformHelper for service IPlatformHelper
+[19Feb2025 01:23:15.708] [modloading-worker-0/INFO] [Living Things/]: Config 'livingthings.json' was successfully loaded.
+[19Feb2025 01:23:15.714] [modloading-worker-0/INFO] [Living Things/]: Config 'penguin.json' was successfully loaded.
+[19Feb2025 01:23:15.717] [modloading-worker-0/INFO] [Living Things/]: Config 'elephant.json' was successfully loaded.
+[19Feb2025 01:23:15.720] [modloading-worker-0/INFO] [Living Things/]: Config 'giraffe.json' was successfully loaded.
+[19Feb2025 01:23:15.721] [modloading-worker-0/INFO] [Living Things/]: Config 'lion.json' was successfully loaded.
+[19Feb2025 01:23:15.722] [modloading-worker-0/INFO] [Living Things/]: Config 'shark.json' was successfully loaded.
+[19Feb2025 01:23:15.723] [modloading-worker-0/INFO] [Living Things/]: Config 'ostrich.json' was successfully loaded.
+[19Feb2025 01:23:15.726] [modloading-worker-0/INFO] [Living Things/]: Config 'flamingo.json' was successfully loaded.
+[19Feb2025 01:23:15.728] [modloading-worker-0/INFO] [Living Things/]: Config 'crab.json' was successfully loaded.
+[19Feb2025 01:23:15.731] [modloading-worker-0/INFO] [Living Things/]: Config 'mantaray.json' was successfully loaded.
+[19Feb2025 01:23:15.733] [modloading-worker-0/INFO] [Living Things/]: Config 'raccoon.json' was successfully loaded.
+[19Feb2025 01:23:15.741] [modloading-worker-0/INFO] [Living Things/]: Config 'owl.json' was successfully loaded.
+[19Feb2025 01:23:15.744] [modloading-worker-0/INFO] [Living Things/]: Config 'ancient_blaze.json' was successfully loaded.
+[19Feb2025 01:23:15.747] [modloading-worker-0/INFO] [Living Things/]: Config 'koala.json' was successfully loaded.
+[19Feb2025 01:23:15.751] [modloading-worker-0/INFO] [Living Things/]: Config 'snail.json' was successfully loaded.
+[19Feb2025 01:23:15.754] [modloading-worker-0/INFO] [Living Things/]: Config 'monkey.json' was successfully loaded.
+[19Feb2025 01:23:15.757] [modloading-worker-0/INFO] [Living Things/]: Config 'nether_knight.json' was successfully loaded.
+[19Feb2025 01:23:15.761] [modloading-worker-0/INFO] [Living Things/]: Config 'shroomie.json' was successfully loaded.
+[19Feb2025 01:23:15.765] [modloading-worker-0/INFO] [Living Things/]: Config 'seahorse.json' was successfully loaded.
+[19Feb2025 01:23:15.767] [modloading-worker-0/INFO] [Living Things/]: Config 'baby_ender_dragon.json' was successfully loaded.
+[19Feb2025 01:23:15.771] [modloading-worker-0/INFO] [Living Things/]: Config 'peacock.json' was successfully loaded.
+[19Feb2025 01:23:16.279] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Feb2025 01:23:16.294] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[19Feb2025 01:23:16.314] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[19Feb2025 01:23:16.451] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod tconstruct.
+[19Feb2025 01:23:16.453] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
+[19Feb2025 01:23:16.453] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
+[19Feb2025 01:23:16.453] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Curios.
+[19Feb2025 01:23:22.053] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[19Feb2025 01:23:24.109] [main/INFO] [Living Things/]: Registering SpawnPlacements
+[19Feb2025 01:23:24.551] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `piglin_brute_specific_sensor`, expected `bygonenether`. This could be a intended override, but in most cases indicates a broken mod.
+[19Feb2025 01:23:25.357] [main/INFO] [com.barion.dungeons_enhanced.DungeonsEnhanced/]: Dungeons Enhanced structures loaded
+[19Feb2025 01:23:25.559] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[19Feb2025 01:23:25.560] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[19Feb2025 01:23:25.598] [main/INFO] [Living Things/]: Registering MobAttributes
+[19Feb2025 01:23:25.620] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
+[19Feb2025 01:23:25.620] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
+[19Feb2025 01:23:25.622] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
+[19Feb2025 01:23:25.624] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
+[19Feb2025 01:23:25.626] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
+[19Feb2025 01:23:25.626] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
+[19Feb2025 01:23:25.693] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[19Feb2025 01:23:25.694] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[19Feb2025 01:23:25.695] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[19Feb2025 01:23:25.954] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:biome_dictionary
+[19Feb2025 01:23:25.985] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:loot_table_alias
+[19Feb2025 01:23:26.014] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:data_handler_type
+[19Feb2025 01:23:26.024] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:dynamic_spawner
+[19Feb2025 01:23:26.026] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[19Feb2025 01:23:26.211] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:dense_forest to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.212] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:firefly_forest to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.212] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:enchanted_forest to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.213] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:dark_forest_center to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.214] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:stream to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.214] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:spooky_forest to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.215] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:mushroom_forest to [structure_gel:dry, structure_gel:snowy, structure_gel:mushroom]
+[19Feb2025 01:23:26.215] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:snowy_forest to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.216] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:dense_mushroom_forest to [structure_gel:dry, structure_gel:snowy, structure_gel:mushroom]
+[19Feb2025 01:23:26.216] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:forest to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.216] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:clearing to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.217] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:glacier to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.217] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:lake to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.218] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:thornlands to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.218] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:dark_forest to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.219] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:oak_savannah to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.219] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered terrablender:deferred_placeholder to [structure_gel:neutral_temp, structure_gel:dry]
+[19Feb2025 01:23:26.220] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:highlands to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.220] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:swamp to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.221] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:fire_swamp to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.221] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered twilightforest:final_plateau to [structure_gel:dry, structure_gel:snowy]
+[19Feb2025 01:23:26.513] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[19Feb2025 01:23:26.705] [modloading-worker-0/INFO] [diamethysts/]: Diamethysts common setup
+[19Feb2025 01:23:26.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[19Feb2025 01:23:26.970] [main/INFO] [journeymap/]: Initializing Packet Registries
+[19Feb2025 01:23:27.046] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[19Feb2025 01:23:27.258] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 109 ms
+[19Feb2025 01:23:27.260] [main/INFO] [Living Things/]: Added Nether Knight to Fortress Spawns
+[19Feb2025 01:23:27.294] [modloading-worker-0/INFO] [diamethysts/]: Diamethysts server setup
+[19Feb2025 01:23:27.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.12 Target: null
+[19Feb2025 01:23:27.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[19Feb2025 01:23:27.352] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[19Feb2025 01:23:27.375] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[19Feb2025 01:23:27.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 3.0.1 Target: null
+[19Feb2025 01:23:27.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[19Feb2025 01:23:27.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[19Feb2025 01:23:27.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [horseexpert] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/horseexpert.json
+[19Feb2025 01:23:27.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [horseexpert] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[19Feb2025 01:23:27.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gildedarmor] Starting version check at https://raw.githubusercontent.com/MaroonShaded/GildedArmor/master/update.json
+[19Feb2025 01:23:28.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gildedarmor] Found status: BETA Current: 1.3.1 Target: null
+[19Feb2025 01:23:28.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[19Feb2025 01:23:28.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
+[19Feb2025 01:23:28.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.18.2
+[19Feb2025 01:23:28.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 13.3.56 Target: 13.3.56
+[19Feb2025 01:23:28.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[19Feb2025 01:23:28.525] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: OUTDATED Current: 1.1.0 Target: 1.1.1
+[19Feb2025 01:23:28.525] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Feb2025 01:23:28.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[19Feb2025 01:23:28.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leavesbegone] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/leavesbegone.json
+[19Feb2025 01:23:28.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leavesbegone] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[19Feb2025 01:23:28.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.18/update.json
+[19Feb2025 01:23:28.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: AHEAD Current: 1.18.2-1.1.0 Target: null
+[19Feb2025 01:23:28.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[19Feb2025 01:23:35.097] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Feb2025 01:23:39.545] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSP-X/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2391!/assets/.mcassetsroot' uses unexpected schema
+[19Feb2025 01:23:39.552] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSP-X/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2391!/data/.mcassetsroot' uses unexpected schema
+[19Feb2025 01:23:39.816] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 118 ms
+[19Feb2025 01:23:42.985] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[19Feb2025 01:23:42.986] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[19Feb2025 01:23:42.986] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[19Feb2025 01:23:42.987] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[19Feb2025 01:23:42.988] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[19Feb2025 01:23:42.988] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[19Feb2025 01:23:42.990] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[19Feb2025 01:23:42.991] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[19Feb2025 01:23:42.993] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[19Feb2025 01:23:43.843] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:572) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.18.2-40.2.21.jar%2392!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.18.2-40.2.21.jar%2392!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.21.jar%2392!/:?]
+[19Feb2025 01:23:43.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[19Feb2025 01:23:43.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: OUTDATED Current: 1.0.3 Target: 1.0.5
+[19Feb2025 01:23:43.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[19Feb2025 01:23:43.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: OUTDATED Current: 2.1.0 Target: 3.0.0
+[19Feb2025 01:23:43.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.18.2
+[19Feb2025 01:23:43.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 10.0.12 Target: 10.0.17
+[19Feb2025 01:23:43.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diamethysts] Starting version check at https://raw.githubusercontent.com/mc-goodch/files/master/diamethysts-updater.json
+[19Feb2025 01:23:44.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diamethysts] Found status: OUTDATED Current: 1.7.2-1.18.2 Target: 1.8.1-1.18.2
+[19Feb2025 01:23:44.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[19Feb2025 01:23:44.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 3.5.8 Target: 3.5.10
+[19Feb2025 01:23:44.941] [main/INFO] [Living Things/]: Command '/livingthings' registered
+[19Feb2025 01:23:45.011] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2025 01:23:45.012] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2025 01:23:45.017] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19Feb2025 01:23:45.019] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19Feb2025 01:23:45.020] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2025 01:23:46.602] [Worker-Main-6/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.1-1.18.2.jar)
+[19Feb2025 01:23:46.603] [Worker-Main-6/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.1-1.18.2.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.1-1.18.2.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.1-1.18.2.jar)
-[18Feb2025 01:58:20.619] [Worker-Main-6/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.1-1.18.2.jar), 
+[19Feb2025 01:23:46.785] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.1-1.18.2.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.1-1.18.2.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.1-1.18.2.jar)
-[18Feb2025 01:58:26.100] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[18Feb2025 01:58:26.122] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
-[18Feb2025 01:58:26.124] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe gildedarmor:gilded_enderite_helmet_smithing as it's serializer returned null
-[18Feb2025 01:58:26.143] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
-[18Feb2025 01:58:26.153] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
-[18Feb2025 01:58:26.154] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[18Feb2025 01:58:26.178] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[18Feb2025 01:58:26.180] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
-[18Feb2025 01:58:26.199] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe gildedarmor:gilded_enderite_chestplate_smithing as it's serializer returned null
-[18Feb2025 01:58:26.207] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe gildedarmor:gilded_enderite_boots_smithing as it's serializer returned null
-[18Feb2025 01:58:26.222] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[18Feb2025 01:58:26.338] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
-[18Feb2025 01:58:26.340] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe gildedarmor:gilded_enderite_leggings_smithing as it's serializer returned null
-[18Feb2025 01:58:26.376] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[18Feb2025 01:58:27.300] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/withered_blackstone_vertical_slab
+[19Feb2025 01:23:52.243] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[19Feb2025 01:23:52.248] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+[19Feb2025 01:23:52.250] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe gildedarmor:gilded_enderite_helmet_smithing as it's serializer returned null
+[19Feb2025 01:23:52.262] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+[19Feb2025 01:23:52.268] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+[19Feb2025 01:23:52.269] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[19Feb2025 01:23:52.321] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[19Feb2025 01:23:52.323] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+[19Feb2025 01:23:52.348] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe gildedarmor:gilded_enderite_chestplate_smithing as it's serializer returned null
+[19Feb2025 01:23:52.360] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe gildedarmor:gilded_enderite_boots_smithing as it's serializer returned null
+[19Feb2025 01:23:52.364] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[19Feb2025 01:23:52.415] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+[19Feb2025 01:23:52.417] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe gildedarmor:gilded_enderite_leggings_smithing as it's serializer returned null
+[19Feb2025 01:23:52.448] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[19Feb2025 01:23:53.622] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/withered_blackstone_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:withered_blackstone_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%2391!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -288,7 +295,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:withered_black
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[18Feb2025 01:58:27.590] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/cracked_withered_blackstone_vertical_slab
+[19Feb2025 01:23:53.902] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/cracked_withered_blackstone_vertical_slab
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'bygonenether:cracked_withered_blackstone_vertical_slab'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2391!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -374,7 +381,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[18Feb2025 01:58:28.074] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/warped_nether_brick_vertical_slab
+[19Feb2025 01:23:54.304] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/warped_nether_brick_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_brick_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%2391!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -478,18 +485,18 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[18Feb2025 01:58:28.543] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3185 advancements
-[18Feb2025 01:58:28.557] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[18Feb2025 01:58:28.557] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[18Feb2025 01:58:28.558] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[18Feb2025 01:58:28.558] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[18Feb2025 01:58:28.685] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[18Feb2025 01:58:28.689] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[18Feb2025 01:58:28.689] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[18Feb2025 01:58:28.689] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[18Feb2025 01:58:28.690] [Worker-Main-6/INFO] [Dungeon Crawl/]: Loading data...
-[18Feb2025 01:58:29.968] [Worker-Main-6/INFO] [Dungeon Crawl/]: Done.
-[18Feb2025 01:58:29.984] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier bygonenether:soul_stone_from_block
+[19Feb2025 01:23:55.039] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3185 advancements
+[19Feb2025 01:23:55.056] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[19Feb2025 01:23:55.057] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[19Feb2025 01:23:55.057] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[19Feb2025 01:23:55.057] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[19Feb2025 01:23:55.150] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[19Feb2025 01:23:55.153] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[19Feb2025 01:23:55.154] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[19Feb2025 01:23:55.154] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[19Feb2025 01:23:55.155] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
+[19Feb2025 01:23:56.461] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
+[19Feb2025 01:23:56.495] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier bygonenether:soul_stone_from_block
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2396!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2396!/:?]
@@ -676,7 +683,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[18Feb2025 01:58:29.987] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier bygonenether:soul_stone_in_catacombs
+[19Feb2025 01:23:56.497] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier bygonenether:soul_stone_in_catacombs
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2396!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2396!/:?]
@@ -863,115 +870,75 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[18Feb2025 01:58:30.026] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 33 Soft Fluids
-[18Feb2025 01:58:33.267] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[18Feb2025 01:58:33.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[18Feb2025 01:58:33.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Feb2025 01:58:33.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Feb2025 01:58:33.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Feb2025 01:58:34.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Feb2025 01:58:34.113] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Feb2025 01:58:34.332] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Feb2025 01:58:34.332] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Feb2025 01:58:34.333] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Feb2025 01:58:34.333] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Feb2025 01:58:34.384] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[18Feb2025 01:58:34.385] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[18Feb2025 01:58:34.386] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[18Feb2025 01:58:34.406] [Server thread/INFO] [Puzzles Lib/]: Loading server config for leavesbegone
-[18Feb2025 01:58:34.408] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for leavesbegone
-[18Feb2025 01:58:34.409] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for leavesbegone
-[18Feb2025 01:58:34.502] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[18Feb2025 01:58:34.503] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[18Feb2025 01:58:34.511] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[18Feb2025 01:58:34.778] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[18Feb2025 01:58:34.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Feb2025 01:58:35.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Feb2025 01:58:38.045] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:38.062] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:38.066] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:38.069] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:38.083] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:38.094] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:38.318] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:39.138] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:39.320] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:39.816] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:40.319] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:40.822] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:41.325] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Feb2025 01:58:41.814] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[18Feb2025 01:58:42.317] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[18Feb2025 01:58:42.814] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[18Feb2025 01:58:43.329] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[18Feb2025 01:58:43.814] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[18Feb2025 01:58:44.314] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[18Feb2025 01:58:44.818] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[18Feb2025 01:58:45.393] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[18Feb2025 01:58:45.824] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
-[18Feb2025 01:58:46.387] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[18Feb2025 01:58:47.648] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12335 ms
-[18Feb2025 01:58:47.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.298s)! For help, type "help"
-[18Feb2025 01:58:47.726] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Feb2025 01:58:47.813] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[18Feb2025 01:58:47.814] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[18Feb2025 01:58:47.814] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[18Feb2025 02:00:49.709] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35bb53da
-[18Feb2025 02:00:49.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OnTap[/127.179.12.228:43409] logged in with entity id 89 at (-4186.40885586281, -10.0, -3598.8432645854805)
-[18Feb2025 02:00:49.758] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OnTap
-[18Feb2025 02:00:49.760] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OnTap
-[18Feb2025 02:00:49.762] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OnTap
-[18Feb2025 02:00:49.763] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OnTap
-[18Feb2025 02:00:49.772] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OnTap
-[18Feb2025 02:00:49.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OnTap
-[18Feb2025 02:00:49.784] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
-[18Feb2025 02:00:49.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
-[18Feb2025 02:00:49.910] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
-[18Feb2025 02:06:55.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has completed the challenge [Potent Opponent!]
-[18Feb2025 02:07:15.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [A Little Hot Rod Red]
-[18Feb2025 02:07:15.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Light Up The World!]
-[18Feb2025 02:10:11.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Chest Slayer]
-[18Feb2025 02:12:07.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [A Cut Above!]
-[18Feb2025 02:14:09.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Dragonslayer]
-[18Feb2025 02:19:18.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Straddle My Ol' Saddle]
-[18Feb2025 02:21:40.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has completed the challenge [The Bigger They Are...]
-[18Feb2025 02:21:54.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap was kicked for floating too long!
-[18Feb2025 02:21:54.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap lost connection: Flying is not enabled on this server
-[18Feb2025 02:21:54.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap left the game
-[18Feb2025 02:21:54.362] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18Feb2025 02:22:03.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[18Feb2025 02:22:03.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /flying enable<--[HERE]
-[18Feb2025 02:22:07.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[18Feb2025 02:22:07.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fly enable<--[HERE]
-[18Feb2025 02:22:22.355] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7cdb791a
-[18Feb2025 02:22:22.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OnTap[/127.179.12.228:50343] logged in with entity id 5192 at (-293.9447675673632, 108.0780349443871, 153.0928432862806)
-[18Feb2025 02:22:22.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OnTap
-[18Feb2025 02:22:22.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OnTap
-[18Feb2025 02:22:22.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OnTap
-[18Feb2025 02:22:22.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OnTap
-[18Feb2025 02:22:22.370] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OnTap
-[18Feb2025 02:22:22.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OnTap
-[18Feb2025 02:22:22.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
-[18Feb2025 02:22:22.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
-[18Feb2025 02:22:22.399] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
-[18Feb2025 02:31:32.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has reached the goal [Hired Help]
-[18Feb2025 02:37:08.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap lost connection: Timed out
-[18Feb2025 02:37:08.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap left the game
-[18Feb2025 02:37:44.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@176194f8
-[18Feb2025 02:37:44.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OnTap[/127.179.12.228:50315] logged in with entity id 8043 at (-289.69894049179925, 88.0, 151.45607431398867)
-[18Feb2025 02:37:44.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OnTap
-[18Feb2025 02:37:44.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OnTap
-[18Feb2025 02:37:44.562] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OnTap
-[18Feb2025 02:37:44.562] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OnTap
-[18Feb2025 02:37:44.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OnTap
-[18Feb2025 02:37:44.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OnTap
-[18Feb2025 02:37:44.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
-[18Feb2025 02:37:44.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
-[18Feb2025 02:37:44.602] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
-[18Feb2025 02:43:41.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [What a Deal!]
-[18Feb2025 03:22:53.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is BRONZE. The position is BlockPos{x=-324, y=89, z=232}
-[18Feb2025 03:22:53.602] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is BRONZE. The position is BlockPos{x=-324, y=89, z=232}
-[18Feb2025 03:22:59.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has reached the goal [Blades Of Glory!]
-[18Feb2025 03:26:32.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Ice Bucket Challenge]
-[18Feb2025 03:27:12.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [We Need to Go Deeper]
-[18Feb2025 03:27:12.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19Feb2025 01:23:56.528] [Worker-Main-4/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 33 Soft Fluids
+[19Feb2025 01:24:00.338] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[19Feb2025 01:24:00.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[19Feb2025 01:24:00.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Feb2025 01:24:00.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Feb2025 01:24:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Feb2025 01:24:00.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Feb2025 01:24:00.894] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Feb2025 01:24:01.149] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Feb2025 01:24:01.150] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Feb2025 01:24:01.151] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Feb2025 01:24:01.151] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Feb2025 01:24:01.199] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[19Feb2025 01:24:01.200] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[19Feb2025 01:24:01.201] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[19Feb2025 01:24:01.220] [Server thread/INFO] [Puzzles Lib/]: Loading server config for leavesbegone
+[19Feb2025 01:24:01.305] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19Feb2025 01:24:01.306] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[19Feb2025 01:24:01.452] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[19Feb2025 01:24:01.454] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[19Feb2025 01:24:01.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Feb2025 01:24:01.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Feb2025 01:24:04.609] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:04.674] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:04.710] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:04.735] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:04.758] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:04.795] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:04.986] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:05.456] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:05.959] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:06.455] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:06.953] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:07.454] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:07.990] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:08.454] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Feb2025 01:24:08.952] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[19Feb2025 01:24:09.458] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[19Feb2025 01:24:09.953] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[19Feb2025 01:24:10.453] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[19Feb2025 01:24:10.957] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[19Feb2025 01:24:11.456] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
+[19Feb2025 01:24:11.952] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
+[19Feb2025 01:24:13.190] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11239 ms
+[19Feb2025 01:24:13.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.020s)! For help, type "help"
+[19Feb2025 01:24:13.271] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Feb2025 01:24:13.343] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[19Feb2025 01:24:13.348] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[19Feb2025 01:24:13.348] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[19Feb2025 01:24:33.619] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@607c4590
+[19Feb2025 01:24:33.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OnTap[/127.179.12.228:47563] logged in with entity id 93 at (-282.3929718062493, 88.0, 149.18038728715152)
+[19Feb2025 01:24:33.693] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OnTap
+[19Feb2025 01:24:33.705] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OnTap
+[19Feb2025 01:24:33.706] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OnTap
+[19Feb2025 01:24:33.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OnTap
+[19Feb2025 01:24:33.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OnTap
+[19Feb2025 01:24:33.752] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OnTap
+[19Feb2025 01:24:33.752] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OnTap
+[19Feb2025 01:24:33.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap joined the game
+[19Feb2025 01:24:33.991] [Server thread/INFO] [Waila/]: Syncing config to OnTap (83b174cd-6018-3a3f-9375-af1925228ad1)
+[19Feb2025 01:24:36.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Feb2025 01:28:07.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap has made the advancement [Splintering II]
+[19Feb2025 01:29:31.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> a
+[19Feb2025 01:30:49.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OnTap lost connection: Timed out
+[19Feb2025 01:30:49.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OnTap left the game
+[19Feb2025 01:30:49.449] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Feb2025 01:31:43.874] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5d0629d9[id=<null>,name=OnTap,properties={},legacy=false] (/127.179.12.228:59811): Took too long to log in
+[19Feb2025 01:31:43.875] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d0629d9[id=<null>,name=OnTap,properties={},legacy=false] (/127.179.12.228:59811) lost connection: Took too long to log in
+[19Feb2025 01:31:43.921] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Feb2025 01:32:26.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@bce0ab0[id=<null>,name=OnTap,properties={},legacy=false] (/127.179.12.228:46591): Took too long to log in
+[19Feb2025 01:32:26.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@bce0ab0[id=<null>,name=OnTap,properties={},legacy=false] (/127.179.12.228:46591) lost connection: Took too long to log in
+[19Feb2025 01:32:26.471] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
