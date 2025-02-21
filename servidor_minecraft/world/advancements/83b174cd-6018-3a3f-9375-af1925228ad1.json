@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-21 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
@@ -367,6 +373,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/cooked_kangaroo_meat_campfire": {
+    "criteria": {
+      "has_items": "2025-02-21 17:18:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-02-15 01:10:18 +0000"
@@ -424,6 +436,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_hay_storage": "2025-02-21 17:17:54 +0000",
       "entered_deep_crypt": "2025-02-15 01:08:25 +0000",
       "entered_ruined_building": "2025-02-15 00:23:08 +0000"
     },
@@ -450,6 +463,18 @@
   "blue_skies:recipes/blue_skies_tools/aquite_sword": {
     "criteria": {
       "has_resource": "2025-02-15 01:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-21 17:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-21 17:15:59 +0000"
     },
     "done": true
   },
@@ -504,6 +529,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-21 17:15:59 +0000"
     },
     "done": true
   },
@@ -715,7 +746,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-15 00:52:46 +0000",
       "minecraft:spider": "2025-02-15 00:54:24 +0000",
+      "minecraft:creeper": "2025-02-21 17:15:20 +0000",
       "minecraft:wither_skeleton": "2025-02-15 01:01:49 +0000",
+      "minecraft:enderman": "2025-02-21 17:23:04 +0000",
       "minecraft:zombie": "2025-02-15 00:48:17 +0000"
     },
     "done": false
@@ -821,6 +854,12 @@
   "chococraft:recipes/chococraft/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2025-02-15 00:46:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-02-21 17:23:22 +0000"
     },
     "done": true
   },
@@ -1070,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-21 17:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-15 01:04:46 +0000"
@@ -1162,6 +1207,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/kangaroo_hide_to_leather": {
+    "criteria": {
+      "has_items": "2025-02-21 17:18:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-15 00:53:16 +0000"
@@ -1225,6 +1276,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2025-02-18 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-21 17:19:50 +0000"
     },
     "done": true
   },
@@ -1318,6 +1375,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-02-21 17:19:50 +0000"
+    },
+    "done": true
+  },
   "livingthings:recipes/cooked_elephant": {
     "criteria": {
       "has_elephant": "2025-02-13 23:03:14 +0000",
@@ -1372,6 +1435,7 @@
       "minecraft:old_growth_pine_taiga": "2025-02-15 00:51:45 +0000",
       "minecraft:taiga": "2025-02-15 00:24:12 +0000",
       "minecraft:birch_forest": "2025-02-18 02:13:37 +0000",
+      "minecraft:windswept_hills": "2025-02-21 17:27:31 +0000",
       "minecraft:beach": "2025-02-18 02:09:46 +0000",
       "minecraft:dark_forest": "2025-02-15 01:07:38 +0000",
       "minecraft:river": "2025-02-15 00:48:41 +0000",
@@ -1379,8 +1443,12 @@
       "minecraft:swamp": "2025-02-21 17:04:29 +0000",
       "minecraft:forest": "2025-02-13 23:03:15 +0000",
       "minecraft:lush_caves": "2025-02-15 00:56:37 +0000",
+      "minecraft:desert": "2025-02-21 17:16:59 +0000",
+      "minecraft:windswept_forest": "2025-02-21 17:30:07 +0000",
       "minecraft:ocean": "2025-02-15 01:08:07 +0000",
+      "minecraft:jungle": "2025-02-21 17:21:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-21 17:04:59 +0000",
+      "minecraft:savanna": "2025-02-21 17:17:11 +0000",
       "minecraft:plains": "2025-02-13 23:05:42 +0000"
     },
     "done": false
@@ -1475,6 +1543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-21 17:19:50 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_emerald_shovel": {
     "criteria": {
       "has_gem": "2025-02-15 01:13:33 +0000"
@@ -1509,6 +1583,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-15 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-21 17:22:29 +0000"
     },
     "done": true
   },
@@ -1880,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-21 17:15:22 +0000"
+    },
+    "done": true
+  },
   "blue_skies:get_aquite": {
     "criteria": {
       "obtain_material": "2025-02-15 01:12:27 +0000"
@@ -1901,6 +1987,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-02-21 17:11:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-02-21 17:18:54 +0000"
     },
     "done": true
   },
@@ -2043,6 +2135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-21 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-02-18 02:13:49 +0000"
@@ -2094,6 +2192,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-21 16:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-21 17:15:22 +0000"
     },
     "done": true
   },
@@ -2275,6 +2379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-21 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-18 02:24:43 +0000"
@@ -2442,6 +2552,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-13 23:38:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/food/cooked_kangaroo_meat": {
+    "criteria": {
+      "has_items": "2025-02-21 17:18:56 +0000"
     },
     "done": true
   },
@@ -2829,6 +2945,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/banner_pattern_australia_0": {
+    "criteria": {
+      "has_items": "2025-02-21 17:18:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-02-15 01:00:13 +0000"
@@ -2868,6 +2990,12 @@
   "blue_skies:everbright/kill_summoner": {
     "criteria": {
       "kill_summoner": "2025-02-15 01:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-21 17:19:50 +0000"
     },
     "done": true
   },
@@ -3000,6 +3128,12 @@
   "diamethysts:armor/diamethyst_lapis_shield": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/food/cooked_kangaroo_meat_smoke": {
+    "criteria": {
+      "has_items": "2025-02-21 17:18:56 +0000"
     },
     "done": true
   },

@@ -581,6 +581,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_hay_storage": "2025-02-21 17:18:02 +0000",
       "entered_deep_crypt": "2025-02-21 17:05:19 +0000",
       "entered_ruined_building": "2025-02-15 00:23:11 +0000"
     },
@@ -1151,6 +1152,12 @@
   "chococraft:recipes/chococraft/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2025-02-15 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-02-21 17:23:39 +0000"
     },
     "done": true
   },
@@ -1827,14 +1834,20 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-15 00:50:45 +0000",
       "minecraft:taiga": "2025-02-15 00:24:09 +0000",
+      "minecraft:birch_forest": "2025-02-21 17:23:39 +0000",
+      "minecraft:windswept_hills": "2025-02-21 17:27:28 +0000",
+      "minecraft:dark_forest": "2025-02-21 17:21:46 +0000",
       "minecraft:river": "2025-02-15 00:49:23 +0000",
       "minecraft:dripstone_caves": "2025-02-15 00:57:48 +0000",
       "minecraft:swamp": "2025-02-21 17:06:52 +0000",
       "minecraft:forest": "2025-02-14 00:04:56 +0000",
       "minecraft:lush_caves": "2025-02-15 00:58:02 +0000",
+      "minecraft:windswept_forest": "2025-02-21 17:30:17 +0000",
       "minecraft:ocean": "2025-02-21 17:09:19 +0000",
+      "minecraft:jungle": "2025-02-21 17:21:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-21 17:05:19 +0000",
       "minecraft:meadow": "2025-02-14 00:20:50 +0000",
+      "minecraft:savanna": "2025-02-21 17:17:54 +0000",
       "minecraft:plains": "2025-02-14 00:06:28 +0000"
     },
     "done": false
