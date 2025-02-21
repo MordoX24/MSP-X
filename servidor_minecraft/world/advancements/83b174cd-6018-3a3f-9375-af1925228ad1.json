@@ -441,6 +441,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-21 17:11:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/aquite_sword": {
     "criteria": {
       "has_resource": "2025-02-15 01:12:27 +0000"
@@ -468,6 +474,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-18 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-21 17:07:30 +0000"
     },
     "done": true
   },
@@ -818,6 +830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-21 17:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-13 23:06:02 +0000"
@@ -887,6 +905,12 @@
   "alexsmobs:recipes/misc/animal_dictionary": {
     "criteria": {
       "has_items": "2025-02-18 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/minoshroom": {
+    "criteria": {
+      "hurt": "2025-02-21 17:09:54 +0000"
     },
     "done": true
   },
@@ -962,6 +986,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/minotaur_axe_diamond": {
+    "criteria": {
+      "has_item": "2025-02-21 17:10:51 +0000"
+    },
+    "done": true
+  },
   "diamethysts:story/root": {
     "criteria": {
       "crafting_table": "2025-02-13 23:49:15 +0000"
@@ -992,6 +1022,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/minotaur_axes": {
+    "criteria": {
+      "has_diamond": "2025-02-21 17:10:51 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_copper_bow_lower_section": {
     "criteria": {
       "has_stick": "2025-02-13 23:48:45 +0000"
@@ -1001,6 +1037,12 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-21 16:47:53 +0000"
     },
     "done": true
   },
@@ -1334,9 +1376,11 @@
       "minecraft:dark_forest": "2025-02-15 01:07:38 +0000",
       "minecraft:river": "2025-02-15 00:48:41 +0000",
       "minecraft:dripstone_caves": "2025-02-15 00:56:28 +0000",
+      "minecraft:swamp": "2025-02-21 17:04:29 +0000",
       "minecraft:forest": "2025-02-13 23:03:15 +0000",
       "minecraft:lush_caves": "2025-02-15 00:56:37 +0000",
       "minecraft:ocean": "2025-02-15 01:08:07 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-21 17:04:59 +0000",
       "minecraft:plains": "2025-02-13 23:05:42 +0000"
     },
     "done": false
@@ -1346,6 +1390,12 @@
       "has_bed": "2025-02-18 02:24:43 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2025-02-21 17:11:05 +0000"
+    },
+    "done": false
   },
   "livingthings:recipes/bone_meal": {
     "criteria": {
@@ -1848,6 +1898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-21 17:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:00:09 +0000"
@@ -1939,6 +1995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-21 17:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-18 02:24:43 +0000"
@@ -1966,6 +2028,12 @@
   "blue_skies:recipes/blue_skies_tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-02-18 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-21 16:55:47 +0000"
     },
     "done": true
   },
@@ -2020,6 +2088,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-21 16:51:06 +0000"
     },
     "done": true
   },
@@ -2166,6 +2240,13 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:hulk_smash": {
+    "criteria": {
+      "hammer_in_offhand": "2025-02-21 16:47:48 +0000",
+      "hammer_in_mainhand": "2025-02-21 16:47:48 +0000"
     },
     "done": true
   },
@@ -2556,6 +2637,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/ice_bomb": {
+    "criteria": {
+      "has_item": "2025-02-21 16:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-13 23:52:29 +0000"
@@ -2565,6 +2652,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/yeti_armor_set": {
+    "criteria": {
+      "has_ingredient": "2025-02-21 16:55:54 +0000"
     },
     "done": true
   },
@@ -2706,6 +2799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-21 16:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-02-18 02:19:21 +0000"
@@ -2772,6 +2871,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-02-21 17:11:05 +0000"
+    },
+    "done": false
+  },
   "blue_skies:everdawn/kill_arachnarch": {
     "criteria": {
       "kill_arachnarch": "2025-02-15 01:11:54 +0000"
@@ -2811,6 +2916,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-15 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "has_yeti": "2025-02-21 16:55:54 +0000"
     },
     "done": true
   },
@@ -2982,6 +3093,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-21 17:02:21 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_diamond_pickaxe": {
     "criteria": {
       "has_gem": "2025-02-15 01:09:35 +0000"
@@ -3003,6 +3120,21 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "fur": "2025-02-21 16:55:54 +0000",
+      "yeti": "2025-02-21 16:55:24 +0000",
+      "trophy": "2025-02-21 16:55:47 +0000",
+      "was_in_fight": "2025-02-21 16:55:24 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:alt/entities/alpha_yeti": {
+    "criteria": {
+      "hurt": "2025-02-21 16:54:58 +0000"
     },
     "done": true
   },
