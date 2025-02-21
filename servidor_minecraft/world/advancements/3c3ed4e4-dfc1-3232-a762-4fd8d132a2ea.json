@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_starlit_log": "2025-02-21 17:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-15 00:57:47 +0000"
@@ -265,6 +271,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2025-02-21 17:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-02-14 00:33:15 +0000"
@@ -373,6 +385,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-14 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2025-02-21 17:48:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/starlit_planks": {
+    "criteria": {
+      "has_item": "2025-02-21 17:47:32 +0000"
     },
     "done": true
   },
@@ -789,6 +813,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/pink_dye_from_midday_bayhop": {
+    "criteria": {
+      "has_item": "2025-02-21 17:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-15 00:26:00 +0000"
@@ -842,6 +872,12 @@
     "criteria": {
       "has_crab": "2025-02-14 00:04:56 +0000",
       "has_cooked_crab": "2025-02-14 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
     },
     "done": true
   },
@@ -1055,6 +1091,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-21 17:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-14 00:11:16 +0000"
@@ -1109,6 +1151,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-21 17:48:30 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2025-02-14 00:25:43 +0000"
@@ -1118,6 +1166,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-21 17:12:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
     },
     "done": true
   },
@@ -1219,9 +1273,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-21 17:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-14 00:11:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
     },
     "done": true
   },
@@ -1292,6 +1358,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_gold_hilt": {
     "criteria": {
       "has_ingot": "2025-02-15 00:35:17 +0000"
@@ -1343,6 +1415,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-02-15 01:01:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
     },
     "done": true
   },
@@ -1421,6 +1499,12 @@
   "blue_skies:recipes/blue_skies_combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-02-14 00:26:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/decorations/furnace_compat": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
     },
     "done": true
   },
@@ -1523,6 +1607,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/turquoise_lever": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
     },
     "done": true
   },
@@ -2029,6 +2119,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-14 00:13:36 +0000"
@@ -2315,6 +2411,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-14 00:13:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2025-02-21 17:48:30 +0000"
     },
     "done": true
   },
