@@ -986,3 +986,47 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [21Feb2025 16:23:11.331] [Server thread/INFO] [Waila/]: Syncing config to kim (3c3ed4e4-dfc1-3232-a762-4fd8d132a2ea)
 [21Feb2025 16:23:38.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kim lost connection: Disconnected
 [21Feb2025 16:23:38.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim left the game
+[21Feb2025 16:28:30.911] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6cde9d3a
+[21Feb2025 16:28:30.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kim[/127.174.231.0:38085] logged in with entity id 4215 at (-299.4492159772259, 90.9375, 160.16611155695247)
+[21Feb2025 16:28:30.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to kim
+[21Feb2025 16:28:30.924] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to kim
+[21Feb2025 16:28:30.924] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to kim
+[21Feb2025 16:28:30.924] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to kim
+[21Feb2025 16:28:30.925] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to kim
+[21Feb2025 16:28:30.927] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to kim
+[21Feb2025 16:28:30.927] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to kim
+[21Feb2025 16:28:30.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim joined the game
+[21Feb2025 16:28:30.991] [Server thread/INFO] [Waila/]: Syncing config to kim (3c3ed4e4-dfc1-3232-a762-4fd8d132a2ea)
+[21Feb2025 16:28:33.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> eselee
+[21Feb2025 16:29:19.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> esa es la chamba que tenemos ahora
+[21Feb2025 16:29:23.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> talar arboles
+[21Feb2025 16:29:27.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kim lost connection: Disconnected
+[21Feb2025 16:29:27.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim left the game
+[21Feb2025 16:33:39.812] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@743061fc
+[21Feb2025 16:33:39.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kim[/127.174.231.0:50529] logged in with entity id 5001 at (-299.5952175080107, 89.9375, 150.26423923586316)
+[21Feb2025 16:33:39.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to kim
+[21Feb2025 16:33:39.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to kim
+[21Feb2025 16:33:39.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to kim
+[21Feb2025 16:33:39.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to kim
+[21Feb2025 16:33:39.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to kim
+[21Feb2025 16:33:39.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to kim
+[21Feb2025 16:33:39.836] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to kim
+[21Feb2025 16:33:39.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim joined the game
+[21Feb2025 16:33:39.893] [Server thread/INFO] [Waila/]: Syncing config to kim (3c3ed4e4-dfc1-3232-a762-4fd8d132a2ea)
+[21Feb2025 16:34:17.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> e we
+[21Feb2025 16:34:19.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> esta es la chamba
+[21Feb2025 16:34:21.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> talar arboles
+[21Feb2025 16:34:23.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> para hacer palitos
+[21Feb2025 16:34:27.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kim has made the advancement [Splintering II]
+[21Feb2025 16:34:29.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> we
+[21Feb2025 16:34:32.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> pero tala en espiral
+[21Feb2025 16:34:40.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> osea de subida
+[21Feb2025 16:34:43.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> esa es para ataque
+[21Feb2025 16:34:44.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> xdd
+[21Feb2025 16:34:47.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kim> si se pero me confundi
+[21Feb2025 16:34:58.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> que
+[21Feb2025 16:35:01.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> sirve para talar esa
+[21Feb2025 16:35:02.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> XD
+[21Feb2025 16:35:06.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> recien me entedero
+[21Feb2025 16:35:10.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> entero*
+[21Feb2025 16:35:10.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <OnTap> xd
