@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_ladder": {
+    "criteria": {
+      "has_item": "2025-02-21 17:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-02-13 23:48:47 +0000"
@@ -254,6 +260,12 @@
   "diamethysts:items/strung_diamond": {
     "criteria": {
       "has_string": "2025-02-15 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_carabeef_from_campfire_cooking_carabeef": {
+    "criteria": {
+      "has_item": "2025-02-21 17:41:10 +0000"
     },
     "done": true
   },
@@ -451,6 +463,12 @@
   "diamethysts:weapons/diamethyst_emerald_battle_axe": {
     "criteria": {
       "has_gem": "2025-02-15 01:13:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_chest": {
+    "criteria": {
+      "has_item": "2025-02-21 17:42:31 +0000"
     },
     "done": true
   },
@@ -679,6 +697,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-02-21 17:40:46 +0000"
     },
     "done": true
   },
@@ -1447,6 +1471,7 @@
       "minecraft:windswept_forest": "2025-02-21 17:30:07 +0000",
       "minecraft:ocean": "2025-02-15 01:08:07 +0000",
       "minecraft:jungle": "2025-02-21 17:21:34 +0000",
+      "minecraft:flower_forest": "2025-02-21 17:35:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-21 17:04:59 +0000",
       "minecraft:savanna": "2025-02-21 17:17:11 +0000",
       "minecraft:plains": "2025-02-13 23:05:42 +0000"
@@ -2367,6 +2392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-02-21 17:39:59 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_iron_hoe": {
     "criteria": {
       "has_ingot": "2025-02-15 01:10:18 +0000"
@@ -2504,6 +2535,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-02-18 02:31:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_carabeef_from_smelting_carabeef": {
+    "criteria": {
+      "has_item": "2025-02-21 17:41:10 +0000"
     },
     "done": true
   },
@@ -2654,6 +2691,12 @@
   "gildedarmor:recipes/combat/gilded_netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_leggings": "2025-02-13 23:03:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_carabeef_from_smoking_carabeef": {
+    "criteria": {
+      "has_item": "2025-02-21 17:41:10 +0000"
     },
     "done": true
   },
@@ -2861,6 +2904,12 @@
     },
     "done": true
   },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-02-21 17:40:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:00:09 +0000"
@@ -3010,6 +3059,12 @@
       "kill_arachnarch": "2025-02-15 01:11:54 +0000"
     },
     "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2025-02-21 17:40:46 +0000"
+    },
+    "done": false
   },
   "mcwpaths:recipes/diorite": {
     "criteria": {
